@@ -1,11 +1,11 @@
-# Beck Bot 🤖
+# AI Girlfriend Bot 🤖
 
-A Telegram bot that simulates **Guinevere Beck** from Netflix's "YOU" series. Beck responds to messages in character with her warm but slightly insecure personality, literary references, and casual texting style.
+A Telegram bot that simulates **Any character**. It responds to messages in character with her warm but slightly insecure personality, literary references, and casual texting style.
 
 ## ✨ Features
 
 ### 🎭 Character Simulation
-- **Authentic Beck personality**: Warm, literary, occasionally self-deprecating
+- **Authentic person personality**: Warm, literary, occasionally self-deprecating
 - **Natural texting style**: Short messages, contractions, casual language
 - **Multilingual support**: English, Russian (informal ты), and French (informal tu)
 - **Context-aware responses**: Maintains conversation history for coherent interactions
@@ -79,9 +79,9 @@ A Telegram bot that simulates **Guinevere Beck** from Netflix's "YOU" series. Be
 ## 🎮 Usage
 
 ### Basic Interaction
-- **Private chats**: Beck responds to all messages
-- **Group chats**: Beck responds when mentioned (@botusername) or replying to her messages
-- **Character consistency**: Beck maintains her personality across all interactions
+- **Private chats**: AI responds to all messages
+- **Group chats**: AI responds when mentioned (@botusername) or replying to her messages
+- **Character consistency**: AI maintains her personality across all interactions
 
 ### Admin Commands
 | Command | Description | Access |
@@ -93,7 +93,7 @@ A Telegram bot that simulates **Guinevere Beck** from Netflix's "YOU" series. Be
 
 ### Example Interactions
 
-**User**: Hey Beck, what are you reading lately?
+**User**: Hey AI, what are you reading lately?
 
 **Beck**: oh hey! just finished rereading some Sylvia Plath... probably not the healthiest choice but you know how it is lol
 
@@ -168,10 +168,6 @@ All data is stored locally in JSON format. No data is shared with third parties 
 ## 📝 License
 
 This project is open source. Please ensure you comply with Telegram's Bot API terms of service and Fireworks AI's usage policies.
-
-## ⚠️ Disclaimer
-
-This bot is a fan project inspired by the Netflix series "YOU". It is not affiliated with Netflix, the show's creators, or any official "YOU" merchandise. Use responsibly and be mindful of the character's fictional nature.
 
 ## 🛠️ Troubleshooting
 
