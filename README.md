@@ -7,7 +7,7 @@ A Telegram bot that simulates **Any character**. It responds to messages in char
 ### 🎭 Character Simulation
 - **Authentic person personality**: Warm, literary, occasionally self-deprecating
 - **Natural texting style**: Short messages, contractions, casual language
-- **Multilingual support**: English, Russian (informal ты), and French (informal tu)
+- **Multilingual support**: English, and Others
 - **Context-aware responses**: Maintains conversation history for coherent interactions
 
 ### 📊 User Analytics
